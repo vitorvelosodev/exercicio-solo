@@ -1,0 +1,33 @@
+/* Simple reset */
+* {
+    margin: 0;
+}
+
+body {
+    
+}
+
+#zen-intro {
+    padding 10px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+#zen-intro header {
+    padding: 10px;
+}
+
+#zen-intro #zen-summary {
+    display: inline-block;
+    width: 49%;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+#zen-intro #zen-preamble {
+    display: inline-block;
+    width: 49%;
+    
+    
+}
